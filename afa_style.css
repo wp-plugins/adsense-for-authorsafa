@@ -1,0 +1,66 @@
+.left_afa
+{
+	width:45%;
+	height: 500px;
+	border: 0px solid gray;
+	float: left;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5%;
+	margin-bottom: auto;
+}
+.right_afa
+{
+	width:45%;
+	height: 500px;
+	border: 0px solid gray;
+	float: right;
+	margin-left: 20px;
+	margin-right: 50px;
+	margin-top: 5%;
+	margin-bottom: auto;
+}
+#aligncenter
+{
+	margin-top: 20%;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+#aligncenter form
+{
+	margin: auto;
+	width: 250px;
+	float:auto;
+	text-align: center;
+}
+
+#aligncenter tr
+{
+	width: 220px;
+}
+
+#aligncenter input
+{
+	width: 220px;
+}
+
+.afa_submit_buttom{
+border:1px solid #616261; -webkit-border-radius: 3px; -moz-border-radius: 3px;border-radius: 3px;font-family:arial, helvetica, sans-serif; padding: 10px 10px 10px 10px; text-shadow: -1px -1px 0 rgba(0,0,0,0.3);font-weight:bold; text-align: center; color: #FFFFFF; background-color: #7d7e7d;
+ background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #7d7e7d), color-stop(100%, #0e0e0e));
+ background-image: -webkit-linear-gradient(top, #7d7e7d, #0e0e0e);
+ background-image: -moz-linear-gradient(top, #7d7e7d, #0e0e0e);
+ background-image: -ms-linear-gradient(top, #7d7e7d, #0e0e0e);
+ background-image: -o-linear-gradient(top, #7d7e7d, #0e0e0e);
+ background-image: linear-gradient(top, #7d7e7d, #0e0e0e);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#7d7e7d, endColorstr=#0e0e0e);
+}
+
+.afa_submit_buttom:hover{
+ border:1px solid #4a4b4a; background-color: #646464;
+ background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#646464), color-stop(100%, #282828));
+ background-image: -webkit-linear-gradient(top, #646464, #282828);
+ background-image: -moz-linear-gradient(top, #646464, #282828);
+ background-image: -ms-linear-gradient(top, #646464, #282828);
+ background-image: -o-linear-gradient(top, #646464, #282828);
+ background-image: linear-gradient(top, #646464, #282828);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#646464, endColorstr=#282828);
+}
